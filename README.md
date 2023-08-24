@@ -1,3 +1,5 @@
+<img align="center" src="./res/cover.jpg"/>
+
 ## Hi, I am Kasun (KAZ) 👋
 
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
